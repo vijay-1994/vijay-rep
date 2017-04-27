@@ -1,0 +1,152 @@
+
+.container_12 {
+	width: 100%; /*Set the width of the entire website here */
+	margin-right: auto;
+	margin-left: auto; /* Margin-left and right are set to auto to center the container */
+ }
+
+header
+{
+    height:100px;
+    background-image: url("back.jpg");
+    background-size: 940px 100px;
+    background-repeat: no-repeat;
+    opacity:0.90;
+}
+
+  
+
+header h1
+{
+  font-size:50px;
+  text-align:center;
+  margin-top:25px;
+  font-family:calligrapher ;
+  letter-spacing:1px;
+  color:white;
+  text-shadow:2px 2px  2px red;
+  
+}
+
+header h1:hover
+{
+	color:red;
+	text-shadow:10px 10px  10px red;
+}
+.hero-image a
+{
+	text-decoration:none;
+	color:red;
+	text-align:bottom;
+	font-size:20px;
+}
+
+.hero-image a:hover
+{
+	font-size:22px;
+    color:purple;
+    text-decoration:underline;
+}
+
+.hero-image li
+{
+	display:inline;
+	padding-top:10px;
+	text-shadow:5px 5px  4px black;
+}
+.hero-image
+{
+ margin-top:10px;
+ height:200px;
+  background-image: url("dravid.jpg"); 
+    background-size: 940px 200px;
+    background-repeat: no-repeat;
+    opacity:0.90;
+}
+
+.hero-image:hover
+{
+	opacity:1;
+}
+
+.row3 .grid_4
+{
+  height:300px;
+  background-color:#DCC6E0;
+  margin-top:10px;
+}
+
+.row4 .grid_8,.row4 .grid_4
+{
+  height:700px;
+  background-color:black;
+   margin-top:10px;
+   opacity:0.90;
+}
+
+.row3 #a
+{
+    background-image: url("test.jpg"); 
+    background-size: 300px 300px;
+    background-repeat: no-repeat;
+    opacity:0.90;
+}
+
+
+.row3 #b
+{
+	background-image: url("odi.jpg"); 
+    background-size: 300px 300px;
+    background-repeat: no-repeat;
+    opacity:0.90;
+}
+
+.row3 #c
+{
+	background-image: url("t20.jpg"); 
+    background-size: 300px 300px;
+    background-repeat: no-repeat;
+    opacity:0.90;
+}
+
+.row3 #a:hover,#b:hover,#c:hover
+{
+     opacity:1;
+}
+
+
+footer
+{
+ 
+    
+    height:100px;
+    background-image: url("new.jpg");
+    background-size: 940px 100px;
+    background-repeat: no-repeat;
+    opacity:0.90;
+
+ 
+}
+
+
+
+body
+{
+	background-image: url("back.jpg");
+	 background-size: 1500px 1500px; 
+    background-repeat: no-repeat;
+}
+.grid_4 .for1
+{
+	padding-left:10px;
+}
+.grid_4 .social
+{
+	 padding-left:10px;
+}
+
+.row4 .grid_8,.grid_4
+{
+	color:white;
+}
+
